@@ -24,8 +24,9 @@ Laravel, Sanctum, Socialite (Google Auth).
       cp .env.example .env
       ```
     - Update `.env` file with your database, 
+    
+4. Login With Google Account :
     - **GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET.
-
 4. Generate application key:
     ```bash
     php artisan key:generate
